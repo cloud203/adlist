@@ -1,7 +1,13 @@
+*.adsafeprotected.com
+*.advertising.com
+*.crashlytics.com
+*.crwdcntrl.net
+*.quantserve.com
 *ad*
+*crwdcntrl.net
 *doubleclick.net
 *engine.mobileapptracking.com
-*facebook.com
+*marfeelcache.com
 *outbrain.com
 aan.amazon.com
 aax-us-east.amazon-adsystem.com
@@ -29,10 +35,8 @@ app.adjust.com
 app.link
 as-sec.casalemedia.com
 as.casalemedia.com
-b.marfeelcache.com
 b1sync.zemanta.com
 bat.bing.com
-bcp.crwdcntrl.net
 beap.gemini.yahoo.com
 bid.contextweb.com
 bidder.criteo.com
@@ -111,7 +115,6 @@ js-sec.indexww.com
 launcher.spot.im
 lithium.facebook.com
 lookaside.facebook.com
-m.facebook.com
 mads.amazon-adsystem.com
 marfeel-d.openx.net
 mb.moatads.com
@@ -123,9 +126,6 @@ o.aolcdn.com
 p.adsymptotic.com
 pagead2.googlesyndication.com
 pinpoint.us-east-1.amazonaws.com
-pixel.adsafeprotected.com
-pixel.advertising.com
-pixel.quantserve.com
 pixiedust.buzzfeed.com
 platform.twitter.com
 players.brightcove.net
@@ -166,7 +166,6 @@ secure.adnxs.com
 secure.quantserve.com
 securepubads.g.doubleclick.net
 sejs.moatads.com
-settings.crashlytics.com
 sharethrough.adnxs.com
 spot.im
 ssl.google-analytics.com
@@ -184,7 +183,6 @@ sync.mathtag.com
 sync.serverbid.com
 syndication.twitter.com
 t.appsflyer.com
-tags.crwdcntrl.net
 tags.tiqcdn.com
 telemetry.api.swiftkey.com
 tlx.3lift.com
@@ -193,6 +191,5 @@ u.acuityplatform.com
 video-ort2-1.xx.fbcdn.net
 video-ort2-2.xx.fbcdn.net
 video.xx.fbcdn.net
-walmart.com
 widget.uservoice.com
 yahoo.uservoice.com
