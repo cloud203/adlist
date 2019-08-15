@@ -192,5 +192,6 @@ u.acuityplatform.com
 video-ort2-1.xx.fbcdn.net
 video-ort2-2.xx.fbcdn.net
 video.xx.fbcdn.net
+walmart.com
 widget.uservoice.com
 yahoo.uservoice.com
