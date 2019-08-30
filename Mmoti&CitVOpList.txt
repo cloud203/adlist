@@ -8511,7 +8511,6 @@ c.no.msn.com
 c.oix.com
 c.oix.net
 c.opinion.com.ua
-c.paypal.com
 c.perlentaucher.de
 c.ph.msn.com
 c.prodigy.msn.com
@@ -31992,7 +31991,6 @@ t.mdn2015x3.com
 t.menepe.com
 t.mobitrk.com
 t.my.jobs
-t.paypal.com
 t.powerreviews.com
 t.premii.com
 t.pswec.com
